@@ -1,5 +1,5 @@
 {
-	"token": "", //дискорд токен
-	"guildId": "7767", //ид гильдии
-	"channelId": "channelId", //ид канала в дискорде куда будет спам
+	"token": "",
+	"guildId": "7767",
+	"channelId": "channelId",
 }
